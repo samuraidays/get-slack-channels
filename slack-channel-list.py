@@ -1,8 +1,7 @@
-import os  # 環境変数取得のため
-import slack  # SlackAPIの使用
-
-import json  # json形式で保存
-import pandas as pd  # csv形式で保存
+import os
+import slack 
+import json
+import pandas as pd 
 
 
 # チャンネルの取得
